@@ -1,2 +1,4 @@
 This is the file number four.
 It is created by my colleague.
+
+A new line added by my colleague.
